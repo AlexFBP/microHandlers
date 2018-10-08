@@ -14,7 +14,7 @@
 //------------------------------------------------------------------------------
 #include <xc.h>
 #include <string.h>
-#include "SerialDevice.h"
+#include "genericSerial.h"
 
 //------------------------------------------------------------------------------
 //  Section RAM and Function Prototypes

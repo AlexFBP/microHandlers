@@ -14,7 +14,7 @@
 //  Include Files
 //------------------------------------------------------------------------------
 
-#include "SerialDevice.h"
+#include "genericSerial.h"
 
 #ifdef  Q_OS_WIN
 #include <windows.h>
